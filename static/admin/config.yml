@@ -1,5 +1,5 @@
 backend:
-  name: bald-flavours
+  name: github
   repo: rowanlg/bald-flavours-v1
 
 media_folder: content/assets
