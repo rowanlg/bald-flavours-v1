@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  name: bald-flavours
+  repo: rowanlg/bald-flavours-v1
 
 media_folder: content/assets
 public_folder: ../assets
